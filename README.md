@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **ranahaani/ranahaani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,10 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![ranahaani's github stats](https://github-readme-stats.vercel.app/api?username=ranahaani&count_private=true&theme=gruvbox)](https://github.com/ranahaani/ranahaani)
+[![ranahaani's github stats](https://github-readme-stats.vercel.app/api?username=ranahaani&count_private=true&theme=default)](https://github.com/ranahaani/ranahaani)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ranahaani&layout=compact&theme=gruvbox)](https://github.com/ranahaani/ranahaani)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ranahaani&layout=compact&theme=default)](https://github.com/ranahaani/ranahaani)
 
 <a href="https://github.com/ranahaani/YouTube-Downloader">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ranahaani&repo=YouTube-Downloader&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ranahaani&repo=YouTube-Downloader&theme=default" />
 </a>
+
