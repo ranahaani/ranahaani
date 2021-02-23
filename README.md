@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="right" alt="Not a joke" src="https://i.gifer.com/7J1M.gif" />
+<img align="right" alt="Not a joke" src="7J1M.gif" />
 
 [![ranahaani's github stats](https://github-readme-stats.vercel.app/api?username=ranahaani&count_private=true&theme=default)](https://github.com/ranahaani/ranahaani)
 
