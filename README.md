@@ -13,15 +13,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
-<img align="right" alt="Not a joke" width="257" height="499" src="7J1M.gif" />
-
-[![ranahaani's github stats](https://github-readme-stats.vercel.app/api?username=ranahaani&count_private=true&theme=default)](https://github.com/ranahaani/ranahaani)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ranahaani&layout=compact&theme=default)](https://github.com/ranahaani/ranahaani)
 
 <a href="https://github.com/ranahaani/YouTube-Downloader">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ranahaani&repo=YouTube-Downloader&theme=default" />
 </a>
 
+-->
+
+<img align="right" alt="Not a joke" width="257" height="499" src="7J1M.gif" />
+<img align="left" height="500" width="415" alt="Muhammad Abdullah Github Stats" src="https://github-readme-stats.vercel.app/api?username=ranahaani&show_icons=true&title_color=75302a&icon_color=75302a&text_color=0a0a0a&bg_color=ffffff&hide_rank=false" />
