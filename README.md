@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 -->
 
 <img align="right" alt="Not a joke" width="257" height="499" src="7J1M.gif" />
-<img align="left" height="500" width="415" alt="Muhammad Abdullah Github Stats" src="https://github-readme-stats.vercel.app/api?username=ranahaani&show_icons=true&title_color=75302a&icon_color=75302a&text_color=0a0a0a&bg_color=ffffff&hide_rank=false" />
+<img align="left" height="500" width="415" alt="Muhammad Abdullah Github Stats" src="https://github-readme-stats.vercel.app/api?username=ranahaani&show_icons=true&title_color=75302a&icon_color=75302a&text_color=0a0a0a&bg_color=ffffff&hide_rank=true" />
