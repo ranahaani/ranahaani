@@ -1,3 +1,5 @@
+[![](https://komarev.com/ghpvc/?username=ranahaani)](https://visitcount.itsvg.in)
+
 # 💫 About Me:
 🔭 I’m currently working on Django and Angular.<br>👯 I’m looking to collaborate on Python/Django projects.<br>🌱 I’m currently learning Next.js.<br>💬 Ask me about Python/Django or Angular.<br>⚡ Fun fact: I enjoy astrophotography and kitchen gardening!
 
@@ -5,7 +7,6 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ranahaani) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ranahaani) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ranahaani) 
 
-[![](https://komarev.com/ghpvc/?username=ranahaani)](https://visitcount.itsvg.in)
 
 
 # 💻 Tech Stack:
