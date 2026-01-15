@@ -51,10 +51,6 @@ pip install gnews
 
 ![](https://github-readme-stats-three-smoky-14.vercel.app/api/top-langs/?username=ranahaani&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=ranahaani&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
 ## 🌐 Connect
 
 [![Website](https://img.shields.io/badge/Website-ranahaani.me-blue?style=flat-square&logo=google-chrome&logoColor=white)](https://ranahaani.me)
