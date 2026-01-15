@@ -4,8 +4,6 @@
 
 **Senior Software Engineer** with 5+ years of experience building scalable backend systems, AI-powered applications, and cloud-native microservices on AWS and GCP.
 
-Currently at **Xref**, where I build AI-powered HR insights serving 10,000+ daily users and architect microservices handling 50,000+ async tasks daily.
-
 ## 🚀 What I Do
 
 - 🔭 Building AI-powered SaaS products and scalable backend systems
